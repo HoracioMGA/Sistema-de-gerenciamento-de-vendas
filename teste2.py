@@ -1,3 +1,7 @@
+'''Codigo ainda em fase de teste, pois como fiz em lista, qualquer coisa pode desalinhar as listas...'''
+
+
+
 ids = []
 produtos = []
 quantidades = []
